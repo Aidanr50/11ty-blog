@@ -12,7 +12,9 @@
 </head>
 <body>
     {% include 'header.njk' %}
-    {{ content | safe }}
+    <main class="mx-auto">
+        {{ content | safe }}
+    </main>
     {% include 'footer.njk' %}
 </body>
 </html>
