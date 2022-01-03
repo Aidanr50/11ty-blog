@@ -1,5 +1,10 @@
 module.exports = {
-  content: ['./_site/**/*.html'],
+  content: [
+    './src/**/*.njk',
+    './src/*.njk'
+    // '/_site/**/*.html',
+    // '/_site/**/**/*.html'
+],
   theme: {
     fontFamily: {
       'display': ['Oswald'],
