@@ -1,0 +1,16 @@
+<div class="py-8 flex flex-wrap md:flex-nowrap">
+    <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <span class="font-semibold title-font text-gray-700">{{ post.data.category }}</span>
+        <p class="mt-1 text-gray-500 text-sm">by <span class="mt-1 text-gray-500 text-sm font-semibold">{{ post.data.author }}</span> on <span class="mt-1 text-gray-500 text-sm font-semibold">{{ post.data.date | postDate }}</span></p>
+    </div>
+    <div class="md:flex-grow">
+        <h2 class="text-2xl font-medium text-gray-900 title-font mb-2 transition-all hover:text-green-900"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        <p class="leading-relaxed">{{ post.data.description }}</p>
+        <a href="{{ post.url }}" class="text-green-500 inline-flex items-center mt-4 group">Learn More
+            <svg class="w-4 h-4 ml-2 transition-all group-hover:translate-x-1" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M5 12h14"></path>
+            <path d="M12 5l7 7-7 7"></path>
+            </svg>
+        </a>
+    </div>
+</div>
