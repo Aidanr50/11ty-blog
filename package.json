@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "css": "tailwindcss -i ./src/styles/input.css -o ./_site/output.css --watch",
+    "css-build": "tailwindcss -i ./src/styles/input.css -o ./_site/output.css",
     "serve": "eleventy --serve",
     "build": "eleventy",
-    "production": "concurrently \"npm run css\" \"npm run build\"",
+    "production": "concurrently \"npm run css-build\" \"npm run build\"",
     "start": "concurrently \"npm run css\" \"npm run serve\""
   },
   "keywords": [],
