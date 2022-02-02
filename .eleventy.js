@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./styles/tailwind.config.js')
   eleventyConfig.addWatchTarget('./styles/tailwind.css')
   eleventyConfig.addPassthroughCopy('./src/assets')
+  eleventyConfig.addPassthroughCopy('./src/admin')
 
   eleventyConfig.addFilter('postDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
