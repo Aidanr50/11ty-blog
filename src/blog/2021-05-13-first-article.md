@@ -3,7 +3,7 @@ title: My First Article
 author: Aidan Ross
 date: 2021-05-13
 tags: ['post', 'featured']
-image: /assets/blog/article-1.jpg
+image: /assets/uploads/article-1.jpg
 imageAlt: Article one's image
 category: News
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut dolor nulla. Suspendisse ut tortor ac nisi commodo sodales et sit amet massa. Duis tincidunt diam ut ante sollicitudin, sit amet mattis nunc pretium. Aenean rutrum dui tortor, et elementum ante condimentum a.
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis condimen
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
-*Nulla* commodo ex id sollicitudin condimentum. Mauris sed vehicula odio. Phasellus ultricies at libero eleifend finibus. Nam sapien risus, ultrices vitae placerat ut, sagittis in dolor. Morbi pellentesque porta nunc, ut aliquet tellus. Pellentesque iaculis aliquet feugiat. Aliquam nec laoreet purus, eu accumsan nulla. Donec ac dui ac sapien efficitur luctus. Cras porttitor placerat dui, a **pellentesque** odio vulputate ac. Aenean at nisi tortor. Ut sed sollicitudin elit. Pellentesque eu elit vitae nulla congue tincidunt vitae vel tellus. Cras vitae eros eu eros volutpat facilisis sit amet cursus est. Aliquam augue metus, pellentesque quis nunc at, rhoncus mollis lorem. Duis euismod vitae arcu ac fringilla.
+*Nulla* commodo ex id sollicitudin condimentum. Mauris sed vehicula odio. Phasellus ultricies at libero eleifend finibus. Nam sapien risus, ultrices vitae placerat ut, sagittis in dolor. Morbi pellentesque porta nunc, ut aliquet tellus. Pellentesque iaculis aliquet feugiat. Aliquam nec laoreet purus, eu accumsan nulla. Donec ac dui ac sapien efficitur luctus. Cras porttitor placerat dui, a **pellentesque** odio vulputate ac. Aenean at nisi tortor. Ut sed sollicitudin elit. Pellentesque eu elit vitae nulla congue tincidunt vitae vel tellus. Cras vitae eros eu eros volutpat facilisis sit amet cursus est. Aliquam augue metus, pellentesque quis nunc at, rhoncus mollis lorem. Duis euismod vitae arcu ac fringilla.   
 
     <html>
         <head>

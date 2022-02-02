@@ -2,7 +2,7 @@
 title: My Second Article
 author: Aidan Ross
 date: 2021-07-02
-image: /assets/blog/article-2.jpg
+image: /assets/uploads/article-2.jpg
 imageAlt: Article two's image
 category: Tutorial
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut dolor nulla. Suspendisse ut tortor ac nisi commodo sodales et sit amet massa. Duis tincidunt diam ut ante sollicitudin, sit amet mattis nunc pretium. Aenean rutrum dui tortor, et elementum ante condimentum a.
