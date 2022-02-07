@@ -7,6 +7,7 @@ date: 2022-02-07T14:23:19.161Z
 category: Editorial
 tags:
   - post
+  - featured
 image: /assets/uploads/11ty-blog.jpg
 imageAlt: 11ty, Netlify and tailwind css logos
 ---
