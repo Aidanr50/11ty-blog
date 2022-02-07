@@ -1,12 +1,17 @@
 ---
 title: My First Article
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
+  dolor nulla. Suspendisse ut tortor ac nisi commodo sodales et sit amet massa.
+  Duis tincidunt diam ut ante sollicitudin, sit amet mattis nunc pretium. Aenean
+  rutrum dui tortor, et elementum ante condimentum a.
 author: Aidan Ross
 date: 2021-05-13
-tags: ['post', 'featured']
-image: /assets/uploads/article-1.jpg
-imageAlt: Article one's image
 category: News
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut dolor nulla. Suspendisse ut tortor ac nisi commodo sodales et sit amet massa. Duis tincidunt diam ut ante sollicitudin, sit amet mattis nunc pretium. Aenean rutrum dui tortor, et elementum ante condimentum a.
+tags:
+  - post
+  - featured
+image: /assets/uploads/new-image.jpg
+imageAlt: Article one's image
 ---
 
 ## First Steps
