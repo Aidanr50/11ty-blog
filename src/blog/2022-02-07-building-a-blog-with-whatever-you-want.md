@@ -1,7 +1,9 @@
 ---
-title: "Building a Blog: With Whatever You Want"
-description: Learn how I dealt with years of paralysis by analysis and settled
-  for what was interesting to me and available at the time.
+title: "How To Build A Blog: With Whatever You Want"
+description: Learn how I dealt with years of paralysis by analysis and instead
+  opted for what was interesting to me and available at the time. All without
+  considering development overheads, relevance or any other excuse I could make
+  up.
 author: Aidan Ross
 date: 2022-02-07T14:23:19.161Z
 category: Editorial
