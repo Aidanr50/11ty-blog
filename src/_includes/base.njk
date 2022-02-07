@@ -19,6 +19,8 @@
     {% include 'footer.njk' %}
 
 <script>
+   CMS.registerPreviewStyle("/output.css");
+  
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
       if (!user) {
@@ -29,5 +31,6 @@
     });
   }
 </script>
+
 </body>
 </html>
