@@ -19,8 +19,6 @@
     {% include 'footer.njk' %}
 
 <script>
-   CMS.registerPreviewStyle("/output.css");
-  
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
       if (!user) {
@@ -30,6 +28,10 @@
       }
     });
   }
+</script>
+
+<script>   
+  CMS.registerPreviewStyle("https://friendly-kilby-f850b9.netlify.app/output.css");
 </script>
 
 </body>
