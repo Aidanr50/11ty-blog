@@ -31,9 +31,9 @@ In it, he talks you through the process of setting up 11ty, converting an existi
 
 To those well-versed in the terminology. This is the ethos of the [JAMstack](https://jamstack.org/). A modern approach to development that aims to:
 
-> "...simplify the web and make it faster, more secure and easier to scale."
+> ...simplify the web and make it faster, more secure and easier to scale.
 
-It does this by taking away complicated and costly server-side rendering. And instead, opting to pre-render content at build time. Meaning no inter-server interception for malicious hackers, no long-load times caused by rendering a new page on every request to the server and better SEO by providing crawlers fully static and rendered pages to sift through.
+It does this by taking away complicated and costly server-side rendering. And instead, opt to pre-render content at build time. Meaning no inter-server interception for malicious hackers, no long-load times caused by rendering a new page on every request to the server and better SEO by providing crawlers fully static and rendered pages to sift through.
 
 Now, this isn't an article about the benefits of the JAMstack. But rather, how you simply need to pull the trigger on your next development project. Instead of trying to curate the perfect set of technologies to get started with.
 
