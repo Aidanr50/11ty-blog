@@ -25,7 +25,7 @@ Because surely a platform or set of tools like that exists right?
 
 It finally clicked for me when I watched [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) - the CSS genie's tutorial on building a blog with the static site generator [11ty](11ty.dev).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wD00RT6d-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4wD00RT6d-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In it, he talks you through the process of setting up 11ty, converting an existing static website into a markdownable blog and lastly, hosting the resultant statically generated site on Netlify and hooking it up to Netlify's headless CMS.
 
